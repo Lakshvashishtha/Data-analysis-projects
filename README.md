@@ -8,4 +8,4 @@ Bike sales dashboard on MS Excel
 
 t20 world cup 2022 analysis- Choose the best 11 players from the world cup
 
-Sales Insight data project
+Sales Insight data project- Excel project dataset
